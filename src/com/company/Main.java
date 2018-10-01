@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
         //gather user input
-        System.out.println("Input the word you would like to be encrypted: ");
+        System.out.println("Input a word you would like to be encrypted: ");
         Scanner kbInput1 = new Scanner(System.in);
         String userInput = kbInput1.next();
 
